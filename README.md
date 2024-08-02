@@ -1,5 +1,5 @@
 <h3 align="start">Hello👋, I'm Sam</h3>
-<h3 align="start">A dynamic and creative self-taught front-end developer</h3>
+<p align="start">A dynamic and creative self-taught front-end developer</h3>
 
 🌱 I’m currently learning: **Vue,Nuxt,TypeScript**
 <hr>
