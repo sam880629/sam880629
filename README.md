@@ -10,4 +10,3 @@
 
 <h3 align="start">My Github Languages Card</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam880629&show_icons=true&theme=dark&locale=en&layout=compact" alt="sam880629" /></p>
